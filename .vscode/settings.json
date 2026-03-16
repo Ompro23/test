@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 300,
+  "files.hotExit": "off",
+  "files.saveConflictResolution": "overwriteFileOnDisk",
+  "workbench.editor.enablePreview": false
+}
